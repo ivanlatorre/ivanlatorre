@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Iván Latorre
+#### desde el 2022 empezando a full con la programación.
+![desde el 2022 empezando a full con la programación.](https://ivanlatorre.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**ivanlatorre/ivanlatorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de programación iniciando con:
 
-Here are some ideas to get you started:
+- INFORMATORIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arg Programa
+
+- CODO A CODO
+
+Habilidades: / HTML / CSS / JS / PYTHON / DJANGO / JAVA / SPRINGBOOT 
+
+- 🔭 Estoy trabajando en futuros proyectos. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ivanlatorre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-latorre-abb007158//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ivan.latorre.79)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](ivanlatorre720@gmail.com)  
+
