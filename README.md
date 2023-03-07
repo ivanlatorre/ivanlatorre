@@ -1,6 +1,7 @@
+### <img src = "<iframe src="https://giphy.com/embed/3oEjHCF6kGlXK0ofsY" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/silicon-valley-3oEjHCF6kGlXK0ofsY">via GIPHY</a></p>" width="40px">
 ### Hola 👋, Mi nombre es Iván Latorre
 #### desde el 2022 empezando a full con la programación.
-![desde el 2022 empezando a full con la programación.](https://ivanlatorre.github.io/github-profile-readme-generator/images/banner.png)
+![desde el 2022 empezando a full con la programación.](![https://github.com/ivanlatorre](/img/icon.png))
 
 Estudiante de programación iniciando con:
 
