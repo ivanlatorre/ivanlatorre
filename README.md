@@ -6,11 +6,11 @@
 **Estudiante de programación iniciando en:**
 
 - **INFORMATORIO (2022)**
-    ![INFORMATORIO](/img/info.jpg)
+    ![INFORMATORIO](/img/info.jpg "INFORMATORIO")
 - **Arg Programa (2022)**
-    ![Arg Programa](/img/banner-ok-argentina-programa.jpg)
+    ![Arg Programa](/img/banner-ok-argentina-programa.jpg "ARG PROGRAMA 4.0")
 - **CODO A CODO (2023)**
-    ![Codo A Codo](/img/logo-CAC-2.webp)
+    ![Codo A Codo](/img/logo-CAC-2.webp "CODO A CODO")
 ***    
 ~~~
 Habilidades en Desarrollo: / HTML / CSS / JS / PYTHON / DJANGO / JAVA / SPRINGBOOT 
