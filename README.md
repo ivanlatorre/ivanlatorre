@@ -1,6 +1,6 @@
 
 ![GIF](/img/giphy.gif)
-### Hola 👋, Mi nombre es Iván Latorre
+### Hola 👋, Mi nombre es ***Iván Latorre***
 #### desde el 2022 empezando a full con la programación.
 
 Estudiante de programación iniciando con:
