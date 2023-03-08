@@ -27,7 +27,7 @@ Habilidades en Desarrollo: / HTML / CSS / JS / PYTHON / DJANGO / JAVA / SPRINGBO
 
 [FUNDACIÓN VIENTOS DE CAMBIOS](http://fvientosdecambio.pythonanywhere.com/)
 
-[CV LOBO WEV DEVELOPER](https://ivanlatorre.github.io/Ticmas-CV/)
+[CV LOBO WEB DEVELOPER](https://ivanlatorre.github.io/Ticmas-CV/)
 ***
 **CONTACTO**
 
