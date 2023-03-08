@@ -3,7 +3,7 @@
 ### Hola 👋, Mi nombre es ***Iván Latorre***
 #### desde el 2022 empezando a full con la programación.
 ***
-**Estudiante de programación iniciando en:**:muscle::muscle::muscle:
+**Estudiante de programación iniciando en:** :muscle::muscle::muscle:
 
 - **INFORMATORIO (2022)**
     ![INFORMATORIO](/img/info.jpg "INFORMATORIO")
