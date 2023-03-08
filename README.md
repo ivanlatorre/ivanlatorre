@@ -8,11 +8,14 @@
 **Estudiante de programación iniciando en:** :muscle::muscle::muscle:
 
 - **INFORMATORIO (2022)**
-    ![INFORMATORIO](/img/info.jpg "INFORMATORIO")
+
+    <img src="img/info.jpg" height="120" alt="INFORMATORIO">
 - **Arg Programa (2022)**
-    ![Arg Programa](/img/banner-ok-argentina-programa.jpg "ARG PROGRAMA 4.0")
+    
+    <img src="img/banner-ok-argentina-programa.jpg" height="110">
 - **CODO A CODO (2023)**
-    ![Codo A Codo](/img/logo-CAC-2.webp "CODO A CODO")
+    
+    <img src="img/logo-CAC-2.webp" height="100">
 ***    
 ~~~
 Habilidades en Desarrollo: / HTML / CSS / JS / PYTHON / DJANGO / JAVA / SPRINGBOOT 
