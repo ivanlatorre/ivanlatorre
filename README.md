@@ -1,6 +1,8 @@
 
 
-![GIF](/img/giphy.gif)
+<p aling="center">
+    <img src="img/giphy.gif">
+</p>
 
 ### Hola 👋, Mi nombre es ***Iván Latorre***
 #### desde el 2022 empezando a full con la programación.
