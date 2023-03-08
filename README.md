@@ -1,4 +1,4 @@
-## BIENVENIDOS A MI GITHUB
+## BIENVENIDOS A MI GITHUB :smiley::smiley:
 
 <p align="center">
     <img src="img/giphy.gif">
