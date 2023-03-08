@@ -9,10 +9,10 @@
 
 - **INFORMATORIO (2022)**
 
-    <img src="img/info.jpg" height="120" alt="INFORMATORIO">
+    <img src="img/info.jpg" height="150" alt="INFORMATORIO">
 - **Arg Programa (2022)**
     
-    <img src="img/banner-ok-argentina-programa.jpg" height="110">
+    <img src="img/banner-ok-argentina-programa.png" height="150">
 - **CODO A CODO (2023)**
     
     <img src="img/logo-CAC-2.webp" height="100">
