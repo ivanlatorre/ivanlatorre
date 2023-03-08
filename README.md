@@ -1,7 +1,7 @@
 ## BIENVENIDOS A MI GITHUB
 
-<p aling="center">
-    <img aling="center" src="img/giphy.gif">
+<p align="center">
+    <img src="img/giphy.gif">
 </p>
 
 ### Hola 👋, Mi nombre es ***Iván Latorre***
